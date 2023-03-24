@@ -1,4 +1,4 @@
-package src
+package src.basic
 
 fun main() {
     for (i in 0..3) {

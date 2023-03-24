@@ -1,4 +1,4 @@
-package src
+package src.basic
 
 fun main() {
     val job = "Software Developer"

@@ -1,4 +1,4 @@
-package src
+package src.basic
 
 class Coffee(
         var name: String = "",

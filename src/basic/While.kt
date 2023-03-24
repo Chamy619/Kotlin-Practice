@@ -1,4 +1,4 @@
-package src
+package src.basic
 
 fun main() {
     var x = 5

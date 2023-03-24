@@ -1,4 +1,4 @@
-package src
+package src.advanced
 
 data class Person(val name: String, val age: Int) {
 //    override fun equals(other: Any?): Boolean {

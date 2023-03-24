@@ -1,4 +1,4 @@
-package src
+package src.basic
 
 class Product(val name: String, val price: Int)
 

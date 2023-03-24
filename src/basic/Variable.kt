@@ -1,4 +1,4 @@
-package src
+package src.basic
 
 fun sum(a: Int, b: Int) : Int {
     return a + b;
